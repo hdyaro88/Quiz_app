@@ -1,0 +1,8 @@
+.main {
+    text-align: center;
+    margin: auto;
+    margin-top: 15rem;
+}
+.main button {
+    background-color: violet;
+}
